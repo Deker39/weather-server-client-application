@@ -7,3 +7,7 @@ This project implements a weather client-server application. The client addresse
 
 To do this, use the site https://openweathermap.org.
 After a request from a client, we need to get weather data from this source. Return the result to the client.
+
+# Example works
+
+![weathre](https://github.com/Deker39/weather-server-client-application/assets/44725291/59db44bc-10cb-4152-bcfc-f01b259c8bf7)
